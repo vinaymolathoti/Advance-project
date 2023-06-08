@@ -1,0 +1,71 @@
+.img-container{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.form-container{
+    float: right;
+    align-content: center;
+    min-width: 500px;
+    margin-top: 130px;
+    margin-right: 120px;
+    min-height: 300px;
+}
+legend, fieldset{
+    border: 2px solid black;
+    border-radius: 5px;
+    background:linear-gradient(45deg,white);
+    color:black;
+}
+.input-field {
+    width: 90%;
+    padding: 10px;
+    outline: none;  
+    align-content: center;
+    border: solid;
+    margin: 1px;
+    color: black;
+    background: linear-gradient(45deg, white ,gray);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+  }
+  .btn{
+    font-size:20px;
+    text-align: center;
+  }
+.body{
+    background:white;
+}
+.button{
+    background: linear-gradient(45deg,white, lightyellow);
+    min-width: 100px;
+    border-radius: 5px;
+    min-height: 40px;
+    font-size: medium;
+}
+.legend{
+    font-size: 25px;
+}
+.icon{
+    padding: 7px;
+    background: blue;
+    color: white;
+    min-width: 5px;
+    max-height: 15px;
+    margin: 1.5px;
+    border: 2px solid black;
+    border-radius:4px;   
+
+  }
+  .sb{
+  background-color: blue;
+  color:white;
+  min-width: 100px;
+  border-radius: 5px;
+  min-height: 40px;
+  font-size: medium;
+  }
+  .home{
+  margin-left: 20px;
+  }
